@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.021,D:\rad_project\lab\Unit1.dfm=D:\rad_project\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,D:\rad_project\lab\Project1.cbproj=D:\rad_project\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,=D:\rad_project\lab\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,=D:\rad_project\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,D:\rad_project\lab\Unit1.h=D:\rad_project\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=D:\rad_project\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,D:\rad_project\lab\Unit1.cpp=D:\rad_project\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,D:\rad_project\lab\Project1PCH1.h=D:\rad_project\Project1PCH1.h</Transaction>
+    <Transaction>2024.10.12 17:30:27.668,=D:\rad_project\lab\Unit4.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
